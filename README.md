@@ -1,0 +1,1 @@
+abp new CAREAssist.CaseManagement -u none --separate-auth-server -d ef -dbms SqlServer -cs "server=localhost; database=ca-cms-dev; Integrated Security=False; User ID=; Password=; Connect Timeout=0;Encrypt=False;Trusted_Connection=True;" -o CaseManagement
